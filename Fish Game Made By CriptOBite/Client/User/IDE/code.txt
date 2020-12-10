@@ -1,0 +1,117 @@
+// Please make a main class in your IDE before you copy and paste this code
+//Made by CRIPTOBITE
+//Install Intellijea IDEA if you need an ide from jetbranis.com
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println ("--------------------------------------------------------");
+        System.out.println ("Lion fish game");
+        System.out.println ("MADE BY CRIPTOBITE");
+        System.out.println ("Controls U up D down F forward");
+        System.out.println ("Do not hit the magma");
+        System.out.println ("If you make a miskate the computer will save you");
+        System.out.println ("Your lionfish looks like ‡ and magma looks like ▣");
+        System.out.println ("To start click S");
+        Scanner userinput1 = new Scanner (System.in);
+        String userdata1 = userinput1.nextLine ();
+        System.out.println (" ‡   ▣---▣---▣     ");
+        System.out.println ("MOVE");
+        Scanner userinput2 = new Scanner (System.in);
+        String userdata2 = userinput2.nextLine ();
+        System.out.println ("‡");
+        System.out.println (" ▣---▣---▣   ");
+        System.out.println ("MOVE");
+        Scanner userinput3 = new Scanner (System.in);
+        String userdata3 = userinput3.nextLine ();
+        System.out.println ("‡");
+        System.out.println ("▣---▣---▣--▣---▣---▣ ---____▣---▣---▣ ");
+        System.out.println ("MOVE");
+        Scanner userinput4 = new Scanner (System.in);
+        String userdata4 = userinput4.nextLine ();
+        System.out.println ("        ‡");
+        System.out.println ("▣---▣---▣--▣---▣---▣ ---____▣---▣---▣ ");
+        System.out.println ("Did you know that lionfish are an invasive species");
+        System.out.println ("MOVE");
+        Scanner userinput5 = new Scanner (System.in);
+        String userdata5 = userinput5.nextLine ();
+        System.out.println ("            ‡");
+        System.out.println ("▣---▣---▣--▣---▣---▣ ---____▣---▣---▣ ");
+        Scanner userinput6 = new Scanner (System.in);
+        String userdata6 = userinput6.nextLine ();
+        System.out.println ("                     ‡");
+        System.out.println ("▣---▣---▣--▣---▣---▣ ---____▣---▣---▣ ");
+        System.out.println ("MOVE");
+        Scanner userinput7 = new Scanner (System.in);
+        String userdata7 = userinput7.nextLine ();
+        System.out.println ("                                    ‡");
+        System.out.println ("▣---▣---▣--▣---▣---▣ ---____▣---▣---▣ ");
+        System.out.println ("MOVE");
+        System.out.println ("Lionfish are native to the Gulfs Of Mexico ");
+        Scanner userinput8 = new Scanner (System.in);
+        String userdata8 = userinput7.nextLine ();
+        System.out.println ("                                         ‡");
+        System.out.println ("▣---▣---▣--▣---▣---▣ ---____▣---▣---▣ ");
+        System.out.println ("MOVE");
+        Scanner userinput9 = new Scanner (System.in);
+        String userdata9 = userinput7.nextLine ();
+        System.out.println ("                                         ‡");
+        System.out.println ("");
+        System.out.println ("");
+        System.out.println ("▣---▣---▣--▣---▣---▣ ---____▣---▣---▣ ");
+        System.out.println ("‡");
+        System.out.println ("MOVE");
+        System.out.println ("▣---▣---▣--▣---▣---▣ ---____▣---▣---▣ ");
+        Scanner userinput10 = new Scanner (System.in);
+        String userdata = userinput10.nextLine ();
+        System.out.println ("                    ‡");
+        System.out.println ("▣---▣---▣--▣---▣---▣ ---____▣---▣---▣");
+        System.out.println ("MOVE");
+        System.out.println ("Did you know certin parts of the lionfish are poisonous");
+        Scanner userinput11 = new Scanner (System.in);
+        String userdata11 = userinput11.nextLine ();
+        System.out.println ("                                ‡");
+        System.out.println ("▣---▣---▣--▣---▣---▣ ---____▣---▣---▣");
+        System.out.println ("MOVE");
+        Scanner userinput12 = new Scanner (System.in);
+        String userdata12 = userinput12.nextLine ();
+        System.out.println ("                                        ‡");
+        System.out.println ("▣---▣---▣--▣---▣---▣ ---____▣---▣---▣");
+        System.out.println ("MOVE");
+        Scanner userinput13 = new Scanner (System.in);
+        String userdata13 = userinput12.nextLine ();
+        System.out.println ("                                        ‡");
+        System.out.println ("▣---▣---▣--▣---▣---▣ ---____▣---▣---▣");
+        System.out.println ("                                        ‡");
+        System.out.println ("▣---▣---▣--▣---▣---▣ ---____▣---▣---▣");
+        System.out.println ("MOVE");
+        Scanner userinput14 = new Scanner (System.in);
+        String userdata14 = userinput14.nextLine ();
+        System.out.println ("‡");
+        System.out.println ("▣---▣---▣--▣---▣---▣ ---____▣---▣---▣");
+        System.out.println ("YOUR DONE");
+        System.out.println("I hope you lerned alot about lionfish");
+        System.out.println("");
+        System.out.println("");
+        System.out.println("");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        System.out.println ("--------------------------------------------------------");
+    }
+}
